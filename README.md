@@ -1,1 +1,1 @@
-# Group_Delta_DeepLearning_for_Classify_subcellular_protein_patterns_in_human_cells
+# Group_Delta_Chest X-ray for  Pneumonia
